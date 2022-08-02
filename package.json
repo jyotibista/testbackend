@@ -1,0 +1,19 @@
+{
+  "name": "jyoti-node",
+  "version": "1.0.0",
+  "description": "This is just a boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "env": "^0.0.2",
+    "express": "^4.18.1",
+    "glob": "^8.0.3",
+    "mongoose": "^6.5.0",
+    "nodemon": "^2.0.19"
+  }
+}

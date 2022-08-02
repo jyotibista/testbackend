@@ -1,0 +1,6 @@
+{
+ 
+    "mongoURI": "mongodb+srv://kgajurel:kgajurel4@cluster0.rnaas.mongodb.net/jyoti_db?retryWrites=true&w=majority",
+    "secretOrKey": "helloJyoti@"
+  }
+  
